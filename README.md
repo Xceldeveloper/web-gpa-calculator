@@ -1,5 +1,9 @@
 # xcelgpacalculator
 
+[Demo](https://xcelgpacalculator.netlify.app)
+
+A minimal GPA calculator for Tertiary Students
+
 ## Build Setup
 
 ```bash
@@ -17,4 +21,3 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
